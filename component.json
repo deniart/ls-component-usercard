@@ -1,0 +1,13 @@
+{
+    "name": "usercard",
+    "version": "1.0",
+    "templates": {
+        "usercard": "usercard.tpl"
+    },
+    "styles": {
+        "usercard": "usercard.css"
+    },
+    "scripts": {
+        "usercard": "usercard.js"
+    }
+}
